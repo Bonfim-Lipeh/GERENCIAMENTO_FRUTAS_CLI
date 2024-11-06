@@ -45,6 +45,7 @@ Versão
 
 ## ✒️Autor
 **Felipe Bonfim** - Desenvolvimento inicial
+
 Contribuições:
 -
 Contribuições são bem-vindas! Se você encontrar algum bug ou tiver alguma sugestão, por favor, abra uma issue.
